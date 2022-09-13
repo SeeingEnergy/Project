@@ -1,4 +1,4 @@
-  //Salle A Zewde,09/12/2022,ITECH-118-03
+
 /*Requirements
 *Forecast temperature as an integer
 **Forecast chance of precipitation as an integer
